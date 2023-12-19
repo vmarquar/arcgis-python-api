@@ -1,0 +1,7 @@
+.env
+*.pdf
+__pycache__/
+*.qmd
+data/*
+VS_CODE_SHORTCUTS.md
+ARCHIV/*
