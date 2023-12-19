@@ -1,0 +1,3 @@
+conda create -n gis_env python=3.11
+conda install -c esri arcgis #alternative: pip install arcgis
+

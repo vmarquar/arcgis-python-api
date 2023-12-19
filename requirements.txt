@@ -1,0 +1,4 @@
+#conda install -c esri arcgis
+#conda install -c conda-forge qgis
+#conda install -c conda-forge python-dotenv
+#conda install -c conda-forge geopandas

@@ -5,3 +5,5 @@ __pycache__/
 data/*
 VS_CODE_SHORTCUTS.md
 ARCHIV/*
+ARCHIV
+.DS_Store
