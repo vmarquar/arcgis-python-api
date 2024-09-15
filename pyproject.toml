@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "arcgis-python-api"
+version = "0.1.0"
+description = ""
+authors = ["Valentin Schweigl"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+GDAL = "^3.9.2"
+python-dotenv = "^1.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
